@@ -15,5 +15,19 @@ public class Calculator {
         System.out.println(fiveMinusTwo);
         System.out.println(sixDivTwo);
         System.out.println(fourTimeTwo);
+        int ten = 10;
+        int eleven = 11;
+        int tenPlusEleven = ten + eleven;
+        System.out.println(tenPlusEleven);
+        int age = 18;
+        System.out.println(age);
+        age = 19;
+        System.out.println(age);
+        int result = one + two;
+        System.out.println(result);
+        one = 12;
+        two = 22;
+        result = one + two;
+        System.out.println(result);
     }
 }
